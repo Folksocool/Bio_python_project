@@ -1,3 +1,2 @@
 # Biodiversity
-# Python
 Biodiversity Project
